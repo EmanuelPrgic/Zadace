@@ -1,2 +1,3 @@
-# P2Vjezbe12
-vjezbe 12 repository
+# Zadace repository
+Repository za zadace
+
